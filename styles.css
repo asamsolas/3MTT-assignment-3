@@ -1,0 +1,70 @@
+body{padding:0px;
+margin: 0px;
+}
+.parallax1{background-image:url("solar.jpeg");
+min-height:100vh; 
+background-position: center;
+background-attachment: fixed; 
+background-repeat: no repeat;
+background-size:cover;
+}
+
+.parallax1 h2 {
+			margin: auto;
+			position: relative;
+			left: 500x;
+			top: 300px;
+			width: 250px;
+			height: 32px;
+			padding: 10px;
+			ackground-color: black;
+			color: white;
+			text-align: center;
+}
+
+.para1{ackground-color: white;
+color: white; 
+padding: 50px; 
+font-size: 21px;
+bottom:400px; position: relative;
+}
+
+.parallax2 {background-image:url("tree.jpeg");
+background-position: center;
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size: cover;
+min-height:100vh;
+}
+.parallax2 h2 {
+margin:auto;
+    color: white;
+    text-align: center;
+    height: 30px;
+    width: 270px;
+    top:110px;
+    position: relative;
+    left:500x;
+    font-size: 37;
+    font-family: Arial;
+}
+
+ .container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+    }
+
+    .image {
+      width: 48%; 
+      margin-bottom: 10px;}
+.container {margin:auto
+position: relative;
+bottom: 500px;}
+
+.container {margin: auto;
+position:relative;
+bottom:relative;
+
+}
+    
